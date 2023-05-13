@@ -1,0 +1,70 @@
+
+
+.cabeça
+{
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.cabeça .sites
+{
+    color: white;
+    align-items: center;
+    text-align: center;
+    width: 2000px;
+    background-color: white;
+    font-size: 22px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+a
+{
+    color: black;
+}
+
+body
+{
+    background-color: rgb(255, 117, 86);
+}
+
+aside
+{
+    margin: 10px;
+    display: inline-block;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+}
+
+article
+{
+    margin: 10px;
+    width: 1300px;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    height: 950px;
+}
+
+footer
+{
+    background-color: white;
+}
+
+.logo
+{
+    display: inline-block;
+}
+
+.sobre
+{
+    display: inline-block;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.divulg
+{
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}

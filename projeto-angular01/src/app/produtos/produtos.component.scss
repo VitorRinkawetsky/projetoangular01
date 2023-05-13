@@ -1,0 +1,139 @@
+.cabeça
+{
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.cabeça .sites
+{
+    color: white;
+    align-items: center;
+    text-align: center;
+    width: 2000px;
+    background-color: white;
+    font-size: 22px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+a
+{
+    color: black;
+}
+
+body
+{
+    background-color: rgb(255, 117, 86);
+}
+
+footer
+{
+    background-color: white;
+}
+
+.logo
+{
+    display: inline-block;
+}
+
+.sobre
+{
+    display: inline-block;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.divulg
+{
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+.conteudo
+{
+    margin: 10px;
+    width: 600px;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+}
+
+aside
+{
+    margin: 10px;
+    display: inline-block;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tabela
+{
+    width: 500px;
+    display: inline-block;
+}
+
+table
+{
+    border: solid 1px black;
+    border-radius: 5px;
+    background-color: rgb(249, 71, 71);
+    width: 50%;
+}
+
+tr:nth-child(even) 
+{
+    background-color: #ff8383;
+}
+
+th
+{
+    font-size: 32px;
+    border: black solid 1px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+td
+{
+    font-size: 20px;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+table, tr, td
+{
+    padding: 5px;
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+td:hover
+{
+    background-color: rgb(240, 174, 174);
+}
+
+th:hover
+{
+    background-color: rgb(240, 174, 174);
+}
+
+.titulo
+{
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nome
+{
+    font-size: 50px;
+    display: inline-block;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.preco
+{
+    font-size: 20px;
+    display: inline-block;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
